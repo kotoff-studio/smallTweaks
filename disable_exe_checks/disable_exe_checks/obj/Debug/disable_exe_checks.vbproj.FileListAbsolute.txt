@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\disable_exe_checks\disable_exe_checks\bin\Debug\disable_exe_checks.exe.config
+C:\Users\admin\source\repos\disable_exe_checks\disable_exe_checks\bin\Debug\disable_exe_checks.exe
+C:\Users\admin\source\repos\disable_exe_checks\disable_exe_checks\bin\Debug\disable_exe_checks.pdb
+C:\Users\admin\source\repos\disable_exe_checks\disable_exe_checks\bin\Debug\disable_exe_checks.xml
+C:\Users\admin\source\repos\disable_exe_checks\disable_exe_checks\obj\Debug\disable_exe_checks.vbprojAssemblyReference.cache
+C:\Users\admin\source\repos\disable_exe_checks\disable_exe_checks\obj\Debug\disable_exe_checks.Form1.resources
+C:\Users\admin\source\repos\disable_exe_checks\disable_exe_checks\obj\Debug\disable_exe_checks.Resources.resources
+C:\Users\admin\source\repos\disable_exe_checks\disable_exe_checks\obj\Debug\disable_exe_checks.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\disable_exe_checks\disable_exe_checks\obj\Debug\disable_exe_checks.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\disable_exe_checks\disable_exe_checks\obj\Debug\disable_exe_checks.exe
+C:\Users\admin\source\repos\disable_exe_checks\disable_exe_checks\obj\Debug\disable_exe_checks.xml
+C:\Users\admin\source\repos\disable_exe_checks\disable_exe_checks\obj\Debug\disable_exe_checks.pdb
