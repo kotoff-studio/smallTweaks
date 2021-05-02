@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\disableWindowsAntivirus\disableWindowsAntivirus\bin\Debug\netcoreapp3.1\disableWindowsAntivirus.exe
+C:\Users\admin\source\repos\disableWindowsAntivirus\disableWindowsAntivirus\bin\Debug\netcoreapp3.1\disableWindowsAntivirus.deps.json
+C:\Users\admin\source\repos\disableWindowsAntivirus\disableWindowsAntivirus\bin\Debug\netcoreapp3.1\disableWindowsAntivirus.runtimeconfig.json
+C:\Users\admin\source\repos\disableWindowsAntivirus\disableWindowsAntivirus\bin\Debug\netcoreapp3.1\disableWindowsAntivirus.runtimeconfig.dev.json
+C:\Users\admin\source\repos\disableWindowsAntivirus\disableWindowsAntivirus\bin\Debug\netcoreapp3.1\disableWindowsAntivirus.dll
+C:\Users\admin\source\repos\disableWindowsAntivirus\disableWindowsAntivirus\bin\Debug\netcoreapp3.1\disableWindowsAntivirus.pdb
+C:\Users\admin\source\repos\disableWindowsAntivirus\disableWindowsAntivirus\obj\Debug\netcoreapp3.1\disableWindowsAntivirus.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\disableWindowsAntivirus\disableWindowsAntivirus\obj\Debug\netcoreapp3.1\disableWindowsAntivirus.Form1.resources
+C:\Users\admin\source\repos\disableWindowsAntivirus\disableWindowsAntivirus\obj\Debug\netcoreapp3.1\disableWindowsAntivirus.Resource1.resources
+C:\Users\admin\source\repos\disableWindowsAntivirus\disableWindowsAntivirus\obj\Debug\netcoreapp3.1\disableWindowsAntivirus.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\disableWindowsAntivirus\disableWindowsAntivirus\obj\Debug\netcoreapp3.1\disableWindowsAntivirus.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\disableWindowsAntivirus\disableWindowsAntivirus\obj\Debug\netcoreapp3.1\disableWindowsAntivirus.AssemblyInfo.cs
+C:\Users\admin\source\repos\disableWindowsAntivirus\disableWindowsAntivirus\obj\Debug\netcoreapp3.1\disableWindowsAntivirus.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\disableWindowsAntivirus\disableWindowsAntivirus\obj\Debug\netcoreapp3.1\disableWindowsAntivirus.dll
+C:\Users\admin\source\repos\disableWindowsAntivirus\disableWindowsAntivirus\obj\Debug\netcoreapp3.1\disableWindowsAntivirus.pdb
+C:\Users\admin\source\repos\disableWindowsAntivirus\disableWindowsAntivirus\obj\Debug\netcoreapp3.1\disableWindowsAntivirus.genruntimeconfig.cache
